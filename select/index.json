@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Santa Tell Me",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2025-12-14T05:10:25.323102Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Santa Tell Me",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/01_Santa_Tell_Me_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Santa Tell Me",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/02_Santa_Tell_Me_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Santa Tell Me",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/03_Santa_Tell_Me_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Santa Tell Me",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/04_Santa_Tell_Me_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Santa Tell Me",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/05_Santa_Tell_Me_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Santa Tell Me",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/06_Santa_Tell_Me_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Santa Tell Me",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/07_Santa_Tell_Me_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Santa Tell Me",
+      "artist": "ChuggaBoom",
+      "has_synced": false,
+      "path": "select/08_Santa_Tell_Me_ChuggaBoom.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Santa Tell Me",
+      "artist": "First to Eleven",
+      "has_synced": true,
+      "path": "select/09_Santa_Tell_Me_First_to_Eleven.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Santa Tell Me (Cover)",
+      "artist": "First to Eleven",
+      "has_synced": true,
+      "path": "select/10_Santa_Tell_Me_(Cover)_First_to_Eleven.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Santa Tell Me",
+      "artist": "Ida da Silva",
+      "has_synced": true,
+      "path": "select/11_Santa_Tell_Me_Ida_da_Silva.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Santa Tell Me",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/12_Santa_Tell_Me_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Santa Tell Me",
+      "artist": "KIDZ BOP Kids",
+      "has_synced": true,
+      "path": "select/13_Santa_Tell_Me_KIDZ_BOP_Kids.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Santa Tell Me",
+      "artist": "Kidz Bop",
+      "has_synced": true,
+      "path": "select/14_Santa_Tell_Me_Kidz_Bop.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Santa Tell Me",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/pl_01_Santa_Tell_Me_Ariana_Grande.txt"
+    }
+  ]
+}
